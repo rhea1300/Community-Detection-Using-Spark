@@ -1,0 +1,6 @@
+(25, {'nodes': [534, 675, 814], 'edges': [{'node1': 534, 'node2': 675, 'begintijd': 20240427032354, 'eindtijd': 20240427073503}, {'node1': 534, 'node2': 814, 'begintijd': 20240503073404, 'eindtijd': 20240503091902}]})
+(26, {'nodes': [24, 775], 'edges': [{'node1': 24, 'node2': 775, 'begintijd': 20240425205640, 'eindtijd': 20240426011031}]})
+(27, {'nodes': [571, 912, 116, 220], 'edges': [{'node1': 571, 'node2': 912, 'begintijd': 20241025123638, 'eindtijd': 20241025124454}, {'node1': 116, 'node2': 220, 'begintijd': 20240709101100, 'eindtijd': 20240709163837}, {'node1': 220, 'node2': 912, 'begintijd': 20240113072614, 'eindtijd': 20240113114559}]})
+(28, {'nodes': [355, 704, 79], 'edges': [{'node1': 355, 'node2': 704, 'begintijd': 20241023213835, 'eindtijd': 20241023220411}, {'node1': 79, 'node2': 704, 'begintijd': 20240928185411, 'eindtijd': 20240928235744}]})
+(29, {'nodes': [216, 710], 'edges': [{'node1': 216, 'node2': 710, 'begintijd': 20241014090726, 'eindtijd': 20241014154245}]})
+(30, {'nodes': [187, 396, 300, 731], 'edges': [{'node1': 187, 'node2': 396, 'begintijd': 20240610204303, 'eindtijd': 20240610230556}, {'node1': 187, 'node2': 300, 'begintijd': 20240905131310, 'eindtijd': 20240905133850}, {'node1': 300, 'node2': 731, 'begintijd': 20240609031923, 'eindtijd': 20240609053934}]})

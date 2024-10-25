@@ -1,0 +1,6 @@
+(37, {'nodes': [273, 976], 'edges': [{'node1': 273, 'node2': 976, 'begintijd': 20241124185552, 'eindtijd': 20241124201836}]})
+(38, {'nodes': [128, 280], 'edges': [{'node1': 128, 'node2': 280, 'begintijd': 20241106102440, 'eindtijd': 20241106134639}]})
+(39, {'nodes': [316, 360], 'edges': [{'node1': 316, 'node2': 360, 'begintijd': 20240622010410, 'eindtijd': 20240622090239}]})
+(40, {'nodes': [261, 865], 'edges': [{'node1': 261, 'node2': 865, 'begintijd': 20240121160741, 'eindtijd': 20240121163407}]})
+(41, {'nodes': [647, 861], 'edges': [{'node1': 647, 'node2': 861, 'begintijd': 20240112103455, 'eindtijd': 20240112121058}]})
+(42, {'nodes': [248, 349, 302], 'edges': [{'node1': 248, 'node2': 349, 'begintijd': 20240220190955, 'eindtijd': 20240221010317}, {'node1': 302, 'node2': 349, 'begintijd': 20240215103610, 'eindtijd': 20240215175540}]})
