@@ -1,5 +1,6 @@
 [
     {
+        "community_id": 1,
         "nodes": [
             1,
             2,
@@ -90,6 +91,7 @@
         ]
     },
     {
+        "community_id": 2,
         "nodes": [
             4,
             10,
