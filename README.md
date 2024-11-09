@@ -1,11 +1,11 @@
 The project directory is organized as follows:
 
 .
-├── data/                # Folder containing datasets
-├── Experiments/         # Folder containing experiment scripts and results
-├── Grouping/            # Folder for grouping algorithms and related code
-├── Community Detection/ # Folder for community detection algorithms and related code
-├── requirements.txt     # File listing project dependencies
+├── data/                # Folder containing datasets  
+├── Experiments/         # Folder containing experiment scripts and results  
+├── Grouping/            # Folder for grouping algorithms and related code  
+├── Community Detection/ # Folder for community detection algorithms and related code  
+├── requirements.txt     # File listing project dependencies  
 
 Requirements
 
