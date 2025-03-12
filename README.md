@@ -13,7 +13,7 @@ This project requires Python and the necessary dependencies listed in the requir
 
 # Folder Descriptions
 
-## data  
+## Data  
 This folder contains all the datasets used in the project. The full datasets are for immediate use. The evaluation datasets are used for evaluation. Dataset_generation.py is used for the generation of data using user input. Graphs contains graphs as outcomes of experiments
 
 ## Community Detection  
